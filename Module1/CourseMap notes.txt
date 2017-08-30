@@ -1,0 +1,4 @@
+Collecting: Have a data driven question.
+Collecting: The types of questions and problems solvable with machine learning.
+Collecting: Collect as much data as you possibly can, focusing on samples.
+Modeling: Unsupervised, and supervised learning, and how they're different.
